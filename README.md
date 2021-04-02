@@ -1,6 +1,6 @@
 # JiYoung's GitHub Page😊
 
-🥰Hello, I'm JiYoung🥰
+Hello, I'm JiYoung🥰
 
 💻I have learned C, C++, JAVA...
 
