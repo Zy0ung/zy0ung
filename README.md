@@ -2,7 +2,7 @@
 
 Hello, I'm JiYoung🥰
 
-💻I have learned C, C++, JAVA...
+💻I have learned C, C++, JAVA, Linux...
 
 🌱I'm currently learning HTML/CSS
 
