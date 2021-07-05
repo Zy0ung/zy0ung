@@ -2,9 +2,9 @@
 
 Hello, I'm JiYoung🥰
 
-💻I have learned C, C++, JAVA ...
+💻I have learned C, C++, JAVA, HTML/CSS ...
 
-🌱I'm currently learning HTML/CSS, Python
+🌱I'm currently learning Python, Django
 
 🦁Likelion 9th member at SCH🦁
 
