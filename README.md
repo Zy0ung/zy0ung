@@ -1,6 +1,7 @@
 # JiYoung's GitHub Page😊
 
 Hello, I'm JiYoung🥰
+My major is The Internet of Things!
 
 💻I have learned C, C++, JAVA, HTML/CSS ...
 
