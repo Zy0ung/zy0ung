@@ -3,7 +3,7 @@
 Hello, I'm JiYoung🥰
 My major is The Internet of Things!
 
-💻I have learned C, C++, JAVA, HTML5/CSS3, Python, Django, Javascript ...
+💻I have learned C, C++, JAVA, HTML5/CSS3, Python, Javascript ...
 
 🌱I'm currently studying Django Rest framework
 
