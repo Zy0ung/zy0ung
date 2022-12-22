@@ -13,4 +13,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
 </p>
 
+### SNS
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiy0ung_e/)](https://www.instagram.com/jiy0ung_e/)
