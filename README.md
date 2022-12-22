@@ -1,6 +1,6 @@
 # JiYoung's GitHub Page😊
 
-**Backend Developer**
+**Backend Developer** <br>
 🦁Likelion 9th member at SCH🦁
 
 ### 🛠️ Tech Stack
