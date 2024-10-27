@@ -17,6 +17,3 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>&nbsp
 </p>
-
-### SNS
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiy0ung_e/)](https://www.instagram.com/jiy0ung_e/)
