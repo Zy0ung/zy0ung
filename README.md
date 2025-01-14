@@ -12,6 +12,7 @@
 - 🦁Likelion 9th Member at SCH🦁
 - BackEnd Developer in GDSC SCH 4th Member
 
+<br>
 
 **Skills**
 <p align="left">
