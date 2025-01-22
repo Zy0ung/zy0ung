@@ -33,7 +33,7 @@ BackEnd Developer 2023.08 ~ 2024.10 @[brandx-jiyoung](https://github.com/brandx-
 <p align="left">
 <img src="https://img.shields.io/badge/SPRING%20SECURITY-60B33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/JSON%20WEB%20TOKENS-000000?style=for-the-badge&logo=logo&logoColor=white">
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
-<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </p>
