@@ -4,7 +4,7 @@
 
 **Junior Backend Developer**
 
-BackEnd Developer 2023.08 ~ 2024.10 @[brandx-jiyoung](https://github.com/brandx-jiyoung)
+2023.08 ~ 2024.10 Backend Developer @[brandx-jiyoung](https://github.com/brandx-jiyoung)
 
 <br>
 
