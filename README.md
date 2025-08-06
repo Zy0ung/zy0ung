@@ -24,7 +24,3 @@
 - 👨‍👩‍👧‍👦&emsp;**BackEnd Developer in GDSC SCH** 4th Member (2022.09 ~ 2023.06)
 - 👨‍👩‍👧‍👦&emsp;**Likelion at SCH** 9th Student (2021.03 ~ 2021.12)
 </small>
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zy0ung&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
