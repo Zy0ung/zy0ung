@@ -20,7 +20,7 @@
 
 **Activities**
 <small>
-- 👨‍👩‍👧‍👦&emsp;**OSSCA (Open Source Software Contribution Academy)** Contributor (2025.07 ~ 진행 중) 
+- 👨‍👩‍👧‍👦&emsp;**OSSCA (Open Source Software Contribution Academy)** Contributor & Lead Mentee (2025.07 ~ 진행 중) 
 - 👨‍👩‍👧‍👦&emsp;**BackEnd Developer in GDSC SCH** 4th Member (2022.09 ~ 2023.06)
 - 👨‍👩‍👧‍👦&emsp;**Likelion at SCH** 9th Student (2021.03 ~ 2021.12)
 </small>
