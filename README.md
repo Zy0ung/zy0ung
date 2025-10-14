@@ -5,7 +5,7 @@
 **Junior Backend Developer**
 
 2023.08 ~ 2024.10 Backend Developer @[brandx-jiyoung](https://github.com/brandx-jiyoung)
-
+2025.10 ~ ing Backend Developer @[futurewiz-jiana](https://github.com/futurewiz-jiana)
 <br>
 
 **Awards**
